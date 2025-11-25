@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+nltk
+sentence-transformers
+pinecone
+python-dotenv
